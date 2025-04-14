@@ -5,4 +5,6 @@ temporay repository just for tests
 versione modificata
 altra modifica remota
 altra prova locale
+riga 8 locale
+
 
